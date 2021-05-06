@@ -1,19 +1,33 @@
 .ruskea {
-    color: brown
+    color: brown;
 }
 
 #punainen {
-    color: red
+    color: red;
 }
 
 h1 {
-    color: blue
+    color: blue;
+    margin-top: 1em;
+    padding-top: 1em;
 }
 
 h2, h3 {
-    color: brown
+    color: brown;
+    margin-top: 1em;
+    padding-top: 1em;
 }
 
 .pinkki {
-    color: pink
+    color: pink;
 }
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+}
+  
