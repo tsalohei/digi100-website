@@ -5,6 +5,10 @@
     padding: 15px;
     position: absolute;
     top: 20;
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    text-transform: uppercase;
 }
 
 .second-box-container {
@@ -15,6 +19,10 @@
     position: absolute;
     left: 300px;
     top: 20;
+    border-style: solid;
+    border-width: thick;
+    border-color: red;
+    text-transform: uppercase;
 }
 
 .third-box-container {
@@ -25,4 +33,12 @@
     position: absolute;
     left: 600px;
     top: 20;
+    border-style: solid;
+    border-width: thick;
+    border-color:yellow;
+    text-transform: uppercase;
+}
+
+p {
+    color: blue
 }
